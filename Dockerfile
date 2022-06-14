@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM ubuntu:latest
 MAINTAINER Matt Bentley <mbentley@mbentley.net>
 
 RUN apt-get update &&\
