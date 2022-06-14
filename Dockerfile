@@ -1,5 +1,6 @@
 FROM ubuntu:latest
-MAINTAINER Matt Bentley <mbentley@mbentley.net>
+MAINTAINER Tony Shouse <redpoint13@gmail.com.
+
 
 RUN apt-get update &&\
   apt-get install -y gnupg wget &&\
